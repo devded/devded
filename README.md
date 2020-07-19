@@ -20,6 +20,7 @@
 <img src="https://img.shields.io/badge/anaconda-42B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/opera-FF1B2D.svg?&style=for-the-badge&logo=opera&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/sublime-FF9800.svg?&style=for-the-badge&logo=sublime-text&logoColor=white" height="25"/>
 
  </p>
  
@@ -30,3 +31,18 @@
  </p>
 
 
+<!--
+
+For ICON With Text
+    https://img.shields.io/badge/HereText-FF9800.svg?&style=for-the-badge&logo=HereIconName&logoColor=white
+    
+For Github Stats
+    https://github-readme-stats.vercel.app/api?username=HereUsername&show_icons=true
+
+For Profile View
+    https://komarev.com/ghpvc/?username=HereUsername
+
+For Auto Generate
+    https://rahuldkjain.github.io/gh-profile-readme-generator/
+
+-->
