@@ -10,7 +10,7 @@
 
 <h4>Stack I work with</h4>
 <p align="left">
-<img src="https://img.shields.io/badge/python-1F4361.svg?&style=for-the-badge&logo=python&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/php-8892BF.svg?&style=for-the-badge&logo=php&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/firebase-FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=white" height="25"/>
@@ -44,5 +44,11 @@ For Profile View
 
 For Auto Generate
     https://rahuldkjain.github.io/gh-profile-readme-generator/
+
+For County Flag ICOn
+    https://www.flaticon.com/
+
+For ICON Idea
+    https://simpleicons.org/
 
 -->
