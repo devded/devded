@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from Bangladesh <img src="https://image.flaticon.com/icons/svg/323/323299.svg" width="14"/> </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devded" alt="devded" /> </p>
 
-- 🔭 I’m currently working on [tweet analysis ](https://github.com/devded/NLP-Thesis)
+- 🔭 I’m currently working on [Tweet Analysis ](https://github.com/devded/NLP-Thesis)
 
 - 🌱 I’m currently learning **Data Science**
 
