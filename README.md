@@ -53,3 +53,6 @@ For ICON Idea
 -->
 
 <!-- ![Visitor Count](https://profile-counter.glitch.me/devded/count.svg) -->
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=devded&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
