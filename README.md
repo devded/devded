@@ -26,7 +26,7 @@
  
  <p align="center"> 
     <img src="https://github-readme-stats.vercel.app/api?username=devded&show_icons=true&hide=contribs" alt="devded" /> 
-    <img weidth="350" height="170" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=devded&layout=compact" alt="devded" />
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=devded&layout=compact" alt="devded" />
  </p>
 
 
