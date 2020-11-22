@@ -8,7 +8,8 @@
 
 - 📫 How to reach me **dedar@eclipso.it**
 
-<h4>Stack I work with</h4>
+### 💻 Stack I work with
+
 <p align="center">
 <img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/php-8892BF.svg?&style=for-the-badge&logo=php&logoColor=white" height="25"/>
@@ -21,21 +22,18 @@
 <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/opera-FF1B2D.svg?&style=for-the-badge&logo=opera&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/sublime-FF9800.svg?&style=for-the-badge&logo=sublime-text&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/edge-0078D7.svg?&style=for-the-badge&logo=microsoft-edge&logoColor=white" 
-height="25"/>
-<img src="https://img.shields.io/badge/Laravel-FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white" 
-height="25"/>
-<img src="https://img.shields.io/badge/Flask-000000.svg?&style=for-the-badge&logo=flask&logoColor=white" 
-height="25"/>
-<img src="https://img.shields.io/badge/latex-008080.svg?&style=for-the-badge&logo=latex&logoColor=white" 
-height="25"/>
-<img src="https://img.shields.io/badge/sqlite-7CBEE4.svg?&style=for-the-badge&logo=sqlite&logoColor=white" 
-height="25"/>
+<img src="https://img.shields.io/badge/edge-0078D7.svg?&style=for-the-badge&logo=microsoft-edge&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Flask-000000.svg?&style=for-the-badge&logo=flask&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/latex-008080.svg?&style=for-the-badge&logo=latex&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/sqlite-7CBEE4.svg?&style=for-the-badge&logo=sqlite&logoColor=white" height="25"/>
 </p>
  
+ ### ⭐ GitHub Stats
+
  <p align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=devded&show_icons=true&theme=buefy" alt="devded" width="420"/> 
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=devded&layout=compact&theme=buefy" alt="devded" height="165" />
+    <img src="https://github-readme-stats.vercel.app/api?username=devded&count_private=true&show_icons=true&theme=buefy" alt="devded" width="420"/> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devded&hide=jupyter%20notebook,html,css&langs_count=8&layout=compact&theme=buefy" alt="devded" height="165" />
  </p>
 
 
@@ -64,7 +62,9 @@ For ICON Idea
 
 <!-- ![Visitor Count](https://profile-counter.glitch.me/devded/count.svg) -->
 
+<!--
 <p align="center">
  <img src="https://github-profile-trophy.vercel.app/?username=devded&theme=flat&row=1" alt="devded" />
 </p>
 
+-->
