@@ -29,7 +29,7 @@
 <img src="https://img.shields.io/badge/sqlite-7CBEE4.svg?&style=for-the-badge&logo=sqlite&logoColor=white" height="25"/>
 </p>
  
- #### ⭐ GitHub Stats
+ #### ⭐  Statistics and Languages
 
  <p align="center"> 
     <img src="https://github-readme-stats.vercel.app/api?username=devded&count_private=true&show_icons=true&theme=buefy" alt="devded" width="420"/> 
