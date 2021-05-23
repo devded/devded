@@ -12,7 +12,7 @@ For Profile View
 For Auto Generate
     https://rahuldkjain.github.io/gh-profile-readme-generator/
 
-For County Flag ICOn
+For County Flag ICON
     https://www.flaticon.com/
 
 For ICON Idea
