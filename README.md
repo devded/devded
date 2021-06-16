@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **dedar@eclipso.it**
 
-#### 💻 Stack I Work With
+### 💻 Stack I Work With
 
 <p align="center">
 <img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" height="25"/>
@@ -31,7 +31,7 @@
 </p>
 
  
- #### ⭐  Statistics and Languages
+ ### ⭐  Statistics and Languages
 
  <!-- <p align="center"> 
     <img src="https://github-readme-stats.vercel.app/api?username=devded&count_private=true&show_icons=true&theme=buefy" alt="devded" width="420"/> 
