@@ -2,9 +2,9 @@
 <h3 align="center">A passionate developer from Bangladesh <img src="https://image.flaticon.com/icons/svg/323/323299.svg" width="14"/> </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devded" alt="devded" /> </p>
 
-- 🔭 I’m currently working on [Tweet Analysis ](https://github.com/devded/NLP-Thesis)
+<!-- - 🔭 I’m currently working on [Tweet Analysis ](https://github.com/devded/NLP-Thesis) -->
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Machine Learning & Data Science**
 
 - 📫 How to reach me **dedar@eclipso.it**
 
@@ -54,13 +54,13 @@
 
 
 <br>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" height="25">
+<!-- <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" height="25">
 <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" height="25">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="25">
-<img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" height="25"> -->
 
 
 <br>
