@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Machine Learning & Data Science**
 
-- 📫 How to reach me **dedar@eclipso.it**
+- 📫 How to reach me **devded@pm.me**
 
 <!-- ### 💻 Stack I Work With
 
