@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dedar Alam</h1>
-<h3 align="center">A passionate developer from Bangladesh 🇧🇩</h3>
+<!-- <h3 align="center">A passionate developer from Bangladesh 🇧🇩</h3> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devded" alt="devded" /> </p>
 
 <!-- - 🔭 I’m currently working on [Tweet Analysis ](https://github.com/devded/NLP-Thesis) -->
